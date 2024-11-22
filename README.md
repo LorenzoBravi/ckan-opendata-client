@@ -1,6 +1,6 @@
 # CKAN API Client
 
-This repository contains a Python client class to interact with the [CKAN API](https://docs.ckan.org/en/latest/api/index.html) for the Italian OpenData portal ([dati.gov.it](https://www.dati.gov.it/opendata/)). The class provides an easy way to query datasets, retrieve metadata, and access catalog information.
+This repository contains a Python client class to interact with the API for the Italian OpenData portal ([dati.gov.it](https://www.dati.gov.it/opendata/)). The class provides an easy way to query datasets, retrieve metadata, and access catalog information.
 
 ---
 
