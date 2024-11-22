@@ -1,4 +1,4 @@
-from ckan_client import CKANClient
+from src.ckan_client import CKANClient
 
 client = CKANClient()
 
